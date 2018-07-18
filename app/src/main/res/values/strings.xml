@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MemoryLib</string>
+    <string name="button_Instrucoes">Instruções</string>
+    <string name="button_iniciar">Alfabeto de Sinais</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_nivel">NivelActivity</string>
+    <string name="button_niveis">Vogais</string>
+    <string name="title_activity_instrucoes">Instrucoes</string>
+
+    //Tela de instruções
+    <string name="txt_instrucoes_intro">O Memorylib foi criado com intuito de
+        expandir o conhecimento da Língua Brasileira de Sinais (LIBRAS).
+        Diante disso, o MemoryLib disponibiliza alguns jogos
+        (baseados na lógica do 'jogo da memória')
+        que buscam facilitar o aprendizado desta língua</string>
+
+    <string name="txt_instrucoes">Para jogar e aprender com o MemoryLib é muito simples,
+        basta você seguir os seguintes passos:
+
+
+    </string>
+    <string name="txt_instrucoes_passo1">
+        1. Selecione, no menu principal, o contexto que você deseja aprender (ex. Alfabeto)
+    </string>
+    <string name="txt_instrucoes_passo2">
+        2. Escolha o nível que você deseja jogar (ex.: Vogais (10 cartas); Consoantes (42 cartas))
+    </string>
+    <string name="title_activity_nivel01">Nivel01Activity</string>
+    <string name="title_activity_nivel2_alfabeto">Nivel2Alfabeto</string>
+    <string name="title_activity_nivel3__alfa_">Nivel3_Alfa_Activity</string>
+    <string name="title_activity_nivel4__alfa_">Nivel4_Alfa_Activity</string>
+
+
+</resources>

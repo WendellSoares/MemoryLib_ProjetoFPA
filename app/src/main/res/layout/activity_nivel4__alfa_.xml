@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nivel4_Alfa_Activity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@mipmap/fundo_2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nível 4 - Alfabeto"
+        android:textStyle="bold"
+        android:textSize="12pt"
+        android:textColor="@color/colorBlueLogo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+        <ImageButton
+
+            android:id="@+id/button_card44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+        <ImageButton
+
+            android:id="@+id/button_card48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card410"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card411"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+        <ImageButton
+
+            android:id="@+id/button_card412"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card413"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card414"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card415"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+        <ImageButton
+
+            android:id="@+id/button_card416"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card417"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card418"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card419"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+        <ImageButton
+
+            android:id="@+id/button_card420"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_recomecar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Recomeçar"
+        android:textColor="@color/colorBlueLogo"
+        android:layout_marginTop="5pt"/>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@mipmap/fundo_principal">
+
+    <ImageView
+        android:layout_width="237dp"
+        android:layout_height="272dp"
+        android:layout_marginBottom="5dp"
+        android:src="@mipmap/logo" />
+
+    <Button
+        android:id="@+id/button_instrucoes"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_Instrucoes"
+        android:textColor="@color/colorBlueLogo"/>
+    <Button
+        android:id="@+id/button_iniciar"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_iniciar"
+        android:textColor="@color/colorBlueLogo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:textSize="4pt"
+        android:text="Visite nosso site: www.memorylib.com" />
+
+</LinearLayout>

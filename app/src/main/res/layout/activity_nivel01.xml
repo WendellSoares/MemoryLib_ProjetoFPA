@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nivel01Activity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@mipmap/fundo_2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nível 1 - Vogais"
+        android:textStyle="bold"
+        android:textSize="12pt"
+        android:textColor="@color/colorBlueLogo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <ImageButton
+
+            android:id="@+id/button_card04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card05"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+        <ImageButton
+
+            android:id="@+id/button_card06"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@color/colorDefault"
+            android:src="@mipmap/logocard" />
+
+    </LinearLayout>
+    
+    
+
+<Button
+    android:id="@+id/button_recomecar"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Recomeçar"
+    android:textColor="@color/colorBlueLogo"
+    android:layout_marginTop="50pt"/>
+
+
+
+</LinearLayout>
