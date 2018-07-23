@@ -1,4 +1,4 @@
-package com.example.wende.memorylib
+package ufrpe.wendellsoares.memorylib
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

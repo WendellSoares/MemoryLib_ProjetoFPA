@@ -1,4 +1,4 @@
-package com.example.wende.memorylib
+package ufrpe.wendellsoares.memorylib
 
 import android.os.Bundle
 import android.app.Activity
